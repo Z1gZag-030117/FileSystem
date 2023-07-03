@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/zjh/Application.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zjh/pojo/Block.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zjh/service/impl/DataServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zjh/service/impl/DirServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zjh/service/impl/DiskServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zjh/service/impl/FileServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zjh/service/impl/UserServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zjh/utils/Utility.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zjh/view/View.java" charset="GBK" />
+  </component>
+</project>
